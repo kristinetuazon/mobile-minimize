@@ -21,14 +21,12 @@
       "emitDecoratorMetadata": true,
       "preserveConstEnums": true,
       "forceConsistentCasingInFileNames": true,
-      "suppressImplicitAnyIndexErrors": true,
       "skipLibCheck": true,
       "noEmit": true,
       "noEmitHelpers": true
     },
     "exclude": [
       "App.js",
-      "App.test.js",
       "build",
       "node_modules"
     ],
