@@ -12,8 +12,6 @@ exports["default"] = App;
 var styles = react_native_1.StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#fff',
-        alignItems: 'center',
-        justifyContent: 'center'
+        paddingTop: 60
     }
 });
